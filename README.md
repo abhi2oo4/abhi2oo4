@@ -18,6 +18,8 @@ I am interested in <b>Artificial Intelligence</b>, particularly <b>Large Languag
 I enjoy exploring the architectures, algorithms, and principles that make them work. My strong interest in mathematics motivates me to understand AI from first principles while building practical implementations and contributing to open-source projects.
 </p>
 
+---
+
 ## 🔬 Research Interests
 
 <table>
@@ -45,5 +47,38 @@ I enjoy exploring the architectures, algorithms, and principles that make them w
 </td>
 </tr>
 </table>
-```
 
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</p>
+
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face"/>
+</p>
+
+### Development & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+
+<p>
+  <a href="https://www.linkedin.com/in/abhishek242004">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:sahu24abhishek@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/>
+  </a>
+</p>
