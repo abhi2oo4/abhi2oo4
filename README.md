@@ -10,10 +10,40 @@
 📍 Birla Institute of Technology, Mesra
 </p>
 
-<p align="center">
-I'm deeply interested in <b>Artificial Intelligence</b>, particularly <b>Large Language Models</b>, <b>Deep Learning</b>, and the mathematical foundations that power modern AI systems.
+<p>
+I am interested in <b>Artificial Intelligence</b>, particularly <b>Large Language Models</b>, <b>Deep Learning</b>, and the mathematics behind foundations the modern AI systems.
 </p>
 
-<p align="center">
-Rather than treating models as black boxes, I enjoy exploring the underlying architectures, algorithms, and principles that make them work. My curiosity, combined with a strong interest in mathematics, motivates me to understand AI from first principles while building practical implementations and contributing to open-source projects.
+<p>
+I enjoy exploring the architectures, algorithms, and principles that make them work. My strong interest in mathematics motivates me to understand AI from first principles while building practical implementations and contributing to open-source projects.
 </p>
+
+## 🔬 Research Interests
+
+<table>
+<tr>
+
+<td width="100%" valign="top">
+
+### 🧠 LLM Research
+
+- Transformer Architectures
+- Retrieval-Augmented Generation (RAG)
+- Efficient Model Adaptation (PEFT, LoRA)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📐 Foundations
+
+- Mathematics for Machine Learning
+- AI Systems
+
+</td>
+</tr>
+</table>
+```
+
