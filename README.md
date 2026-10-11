@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/Banner.png" alt="Profile Banner" width="100%">
-</p>
-
-
 <h1 align="center">Hi there! 👋 I'm Abhishek Sahu</h1>
 
 <p align="center">
